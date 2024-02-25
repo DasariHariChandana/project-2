@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:white;
+    margin: 0;
+    padding:0;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .test {
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content:center;
+  }
+  #submit_button {
+    background-color:white;
+    color: #c81515;
+    padding: 10px;
+    margin: none;
+    border-radius: 4px;
+    cursor: pointer;
+    align-items:center;
+    display:flex;
+    text-align:center;
+    justify-content:center;
+  }
+
+
+
+  
